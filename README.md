@@ -1,5 +1,5 @@
 # 💫 About Me:
-French computer engineering student / Web developer analyst. Interested in blockchain and data analysis (especially financial). Currently learning Rust.
+French computer engineering student / Web developer analyst. Interested in blockchain and data analysis (especially financial). Currently learning Go.
 
 
 ## 🌐 Socials:
