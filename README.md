@@ -1,5 +1,5 @@
 # 💫 About Me:
-French computer engineering student / Web developer analyst. Interested in blockchain and data analysis (especially financial). Currently learning Rust.
+French computer engineering student / Developer analyst (apprenticeship). Interested in blockchain and data analysis (especially financial). Currently learning Rust.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
