@@ -21,8 +21,9 @@ French computer engineering student / Developer analyst (apprenticeship). Intere
 ---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![OpenCV](https://img.shields.io/badge/opencv-3982CE?style=for-the-badge&logo=opencv&logoColor=white) 
-![Ultralytics](https://img.shields.io/badge/ultralytics-3982CE?style=for-the-badge&logo=ultralytics&logoColor=white) 
-![OCR](https://img.shields.io/badge/ocr-3982CE?style=for-the-badge&logo=ocr&logoColor=white) 
+![Ultralytics](https://img.shields.io/badge/ultralytics-3982CE?style=for-the-badge&logo=ultralytics&logoColor=white)
+![ONNX](https://img.shields.io/badge/onnx-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/tesseractocr-005CED?style=for-the-badge&logo=tesseractcr&logoColor=white)
 ---
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ---
