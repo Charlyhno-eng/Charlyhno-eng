@@ -1,7 +1,4 @@
-# 💫 About Me:
-French computer engineering student / Developer analyst (apprenticeship). Interested in blockchain and data analysis (especially financial). Currently learning Rust.
-
-# 💻 Tech Stack:
+# Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -42,7 +39,7 @@ French computer engineering student / Developer analyst (apprenticeship). Intere
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Charlyhno-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Charlyhno-eng&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlyhno-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
