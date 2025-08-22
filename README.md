@@ -21,8 +21,6 @@
 ![ONNX](https://img.shields.io/badge/onnx-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![Tesseract OCR](https://img.shields.io/badge/tesseract-005CED?style=for-the-badge&logoColor=white)
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
-
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
