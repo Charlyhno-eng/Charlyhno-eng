@@ -1,11 +1,14 @@
+# *About me :*
+
+Hi there! I'm a French computer engineering student in my final year, currently working as a Web Developer Analyst and Project Manager at a major insurance company in France. Passionate about deep tech, I’m particularly interested in artificial intelligence especially in computer vision, blockchain technologies and the intersection of IT and finance. I also have solid experience in Linux environments and software architecture.  
+
+I’m currently looking for a VIE (International Volunteer Program) opportunity in Asia after graduation to apply my skills and continue growing in an international and innovative environment.
+
+
 # *Tech Stack :*
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Golang](https://img.shields.io/badge/golang-%23007ACC.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -27,12 +30,6 @@
 
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%230A0FFF.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%230A0FFF.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 ---
 
