@@ -32,13 +32,4 @@ I’m currently looking for a VIE (International Volunteer Program) opportunity 
 ![Bash](https://img.shields.io/badge/bash-%230A0FFF.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
-
-# *GitHub Stats :*
-![](https://github-readme-stats.vercel.app/api?username=Charlyhno-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Charlyhno-eng&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlyhno-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=Charlyhno-eng&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
