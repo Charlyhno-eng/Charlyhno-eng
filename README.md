@@ -30,6 +30,3 @@ I’m currently looking for a VIE (International Volunteer Program) opportunity 
 
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%230A0FFF.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-
----
-[![](https://visitcount.itsvg.in/api?id=Charlyhno-eng&icon=0&color=0)](https://visitcount.itsvg.in)
