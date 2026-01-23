@@ -4,6 +4,8 @@ Hi there! I'm a French computer engineering student in my final year, currently 
 
 I’m currently looking for a VIE (International Volunteer Program) opportunity in Asia after graduation to apply my skills and continue growing in an international and innovative environment.
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFoNXc3bjliaWYwMm5ycTRxamk3ZXhraHQwOWd4YXhhazd2MWVmcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/200.webp" width="200" alt="Developer GIF"/>
+
 
 # *Tech Stack :*
  
