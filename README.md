@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Charly 👋</h1>
+<h1 align="center">Hi, I'm Charly</h1>
 <h3 align="center">French Computer Engineering Student • Web Developer • AI / Computer Vision</h3>
 
 <p align="center">
@@ -13,16 +13,16 @@
 <tr>
 <td width="65%" valign="top">
 
-## 🚀 About Me
+## A bit about Me
 
-Hi there! I'm a **French computer engineering student in my final year**, currently working as a **Web Developer Engineer** and **Project Manager** at a major insurance company in France.  
+I'm a **French computer engineering student in my final year**, currently working as a **Web Developer Engineer** and **Project Manager** at a major insurance company in France.  
 
-I'm passionate about **deep tech**, with a strong interest in:
-- 🏗️ **Software architecture**
-- 💹 **Finance & IT**
-- 🐧 **Linux environments**
-- 🤖 **Artificial Intelligence**
-- 👁️ **Computer Vision**
+Passionate about **deep tech and backend performance**, with a strong interest in:
+- **Software architecture**
+- **Finance & IT**
+- **Linux environments**
+- **Artificial Intelligence**
+- **Computer Vision**
 
 I'm currently looking for a **VIE opportunity in Asia or in South America** after graduation, where I can apply my skills in an **international** and **innovative** environment.
 
