@@ -19,12 +19,10 @@ I'm a **French computer engineering student in my final year**, currently workin
 
 Passionate about **deep tech and backend performance**, with a strong interest in:
 - **Software architecture**
-- **Finance & IT**
 - **Linux environments**
-- **Artificial Intelligence**
-- **Computer Vision**
+- **Artificial Intelligence & Computer Vision**
 
-I'm currently looking for a **VIE opportunity in Asia or in South America** after graduation, where I can apply my skills in an **international** and **innovative** environment.
+I'm currently looking for a **job abroad** after graduation, where I can apply my skills in an **international** and **innovative** environment.
 
 </td>
 <td width="35%" align="center" valign="middle">
@@ -58,9 +56,8 @@ I'm currently looking for a **VIE opportunity in Asia or in South America** afte
 ### ML & Computer Vision
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>
-  <a href="https://github.com/openai/whisper" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/1*4l07m-rV0ZepWJ3n7ECC9w.png" alt="Whisper" height="50" /></a>
-  <a href="https://www.oracle.com/fr/artificial-intelligence/machine-learning/what-is-machine-learning/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5139/5139787.png" alt="ML" height="50" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="Pytorch" height="50" /></a>
+  <a href="https://www.tensorflow.org/?hl=fr" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/langfr-250px-Tensorflow_logo.svg.png" alt="Tensorflow" height="50" /></a>
 </p>
 
 </td>
